@@ -1,3 +1,5 @@
+#newline
+
 ### [2.6.2](https://github.com/ulic75/power-distribution-card/compare/v2.6.1...v2.6.2) (2023-03-17)
 
 
